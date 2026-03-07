@@ -5,6 +5,8 @@
 
 #### Youtube Material to study from : 
 
+Pick any one of the channel you like and complete the enitre playlist
+
 1) [5 min enginerring](https://www.youtube.com/playlist?list=PLYwpaL_SFmcD5wP3BmldWA-aBYK9YHn9F)
 2) [Krish Naik One Shot](https://www.youtube.com/watch?v=ENLEjGozrio&t=7918s)
 3) [Krish Naik Playlist (Recommended for Indepth Knowledge)](https://www.youtube.com/playlist?list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn)
